@@ -1,15 +1,9 @@
-class strw:
-    def __init__(self):
-        self.text = ""
-    
-    def getString(self):
-        self.text = input("Please input a text: ")
-    
-    def printString(self):
-        print(self.text.upper())
+class Person:
+    def __init__(self,age,name):
+        self.age = age
+        self.name = name
 
-text = strw()
-text.getString()
-text.printString()
+p1 = Person("18","Bekzhan")
 
-#вводим имя и она выводит в Верхний регистр
+print(p1.name)
+print(p1.age)
