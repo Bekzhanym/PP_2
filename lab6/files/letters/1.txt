@@ -1,0 +1,8 @@
+Only directories:
+['Enactus']
+
+Only files:
+['Маркетинг Бекжан.docx', 'Маркетинг план.docx']
+
+All directories and files :
+['Enactus', 'Маркетинг Бекжан.docx', 'Маркетинг план.docx']

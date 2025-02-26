@@ -1,6 +1,6 @@
 import re
 
-pattern = r"ab*"
+pattern = r"^ab*"
 text = ["ab", "abb", "abbb", "ba", "bba"]
 
 for element in text:
